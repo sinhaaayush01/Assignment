@@ -4,7 +4,7 @@ body
 	margin: 0 0 0 0;
 	font-family: 'Nanum Pen Script', cursive;
 	font-size: 21px;
-	background: url("/home/aayush/Firsthtml/music.jpg") no-repeat;
+	background: url("../img/music.jpg") no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 	position: absolute;
@@ -118,7 +118,7 @@ ul a{
 	background: transparent;
 }
 .columnlayout{
-	background: url("/home/aayush/Firsthtml/background.jpg") no-repeat;	
+	background: url("../img/background.jpg") no-repeat;	
 	background-size: cover;
 	position: absolute;
 	margin : 0 0 0 0;
@@ -142,16 +142,16 @@ ul a{
 .callout:nth-child(1){
  
  box-shadow: 0 5px 5px 0px black;
- background: url(/home/aayush/Firsthtml/juke.jpg) no-repeat
+ background: url("../img/juke.jpg") no-repeat
  }
 .callout:nth-child(2){
  box-shadow: 0 5px 5px 0px black;
- background: url(/home/aayush/Firsthtml/90.jpg) no-repeat;
+ background: url("../img/90.jpg") no-repeat;
 }
 .callout:nth-child(3)
 {
  box-shadow: 0 5px 5px 0px black;
- background: url(/home/aayush/Firsthtml/unplugged.jpg) no-repeat;
+ background: url("../img/unplugged.jpg") no-repeat;
 }
 .foot{
 	position: absolute;
